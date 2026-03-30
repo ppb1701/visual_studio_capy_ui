@@ -1,5 +1,4 @@
-This Repository Has Moved Development for this project has moved to Codeberg. GitHub is no longer the source of truth. New home: https://codeberg.org/ppb1701/
-visual_studio_capy_ui
+This Repository Has Moved Development for this project has moved to Codeberg. GitHub is no longer the source of truth. New home: https://codeberg.org/ppb1701/visual_studio_capy_ui
 
 Quick Links
 
